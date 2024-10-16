@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haissa Oliveira</h1>
+<h1 align="center">Hi 😉, I'm Haissa Oliveira</h1>
 <h3 align="center">A curious data scientist from Brazil living in Portugal</h3>
 
 - 🔭 I’m currently working on **Accenture**
